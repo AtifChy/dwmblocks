@@ -1,3 +1,6 @@
+# Scripts
+my statusbar scripts https://github.com/AtifChy/dotfiles/tree/master/.local/bin/statusbar
+
 # dwmblocks
 Modular status bar for dwm written in c.
 # usage
