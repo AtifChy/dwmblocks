@@ -1,6 +1,8 @@
 # Scripts
 my statusbar scripts https://github.com/AtifChy/dotfiles/tree/master/.local/bin/statusbar
 
+add noto-color-emoji in your dwm config.
+
 # dwmblocks
 Modular status bar for dwm written in c.
 # usage

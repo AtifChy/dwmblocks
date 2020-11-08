@@ -3,7 +3,7 @@ static const Block blocks[] = {
 	/*Icon*/	/*Command*/		/*Update Interval*/	/*Update Signal*/
 //	{"🐧 ", "uname -r",                                                    			0, 		14},
 //	{"", "music", 										0, 		1},
-//	{"📦 ", "check-updates", 				  				1800, 		2},
+//	{"📦 ", "timeout 2 check-updates", 				  			1800, 		2},
 	{"🖥️ ", "cpu",									      	 2, 	 	 3},
 //	{"🌡️ ", "sensors| awk '/Core 0/ { print $3 }'",             		           	 5,              0},
 	{"🧠 ", "memory",		       							10,	    	4},
@@ -12,9 +12,6 @@ static const Block blocks[] = {
 	{"", "volume", 										0, 		6},
 //	{"", "weather", 									3600, 		13},
 	{"📆 ", "clock",									30,		7},
-//	{"😃", "emoji", 									0, 		9},
-//	{"📋", "clipboard", 									0, 		10},
-//	{"📴 |", "power", 									0, 		11},
 };
 
 
